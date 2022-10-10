@@ -1,1 +1,0 @@
-document.write('Welcome to the World of JavaScript');
